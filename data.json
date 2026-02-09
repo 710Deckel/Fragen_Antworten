@@ -14,6 +14,53 @@
       "frage": "Ablauf der Praktischen PrÃ¼fung",
       "erstellt": "2026-02-09T12:57:24.409Z",
       "antwort": "- Gesamtzeit = 55 Minuten - Reine Fahrzeit = 30 Minuten\n- Prüfung der Personalien, \n- ggf. technische Fragen,\n- Prüfer erklärt Prüfungsfahrtablauf,\n- Grundfahraufgaben von 5 möglichen werden 3 geprüft,\n-> Grundfahraufgaben Vorwärts (Davon 2 Stück)\n- Umkehren / Wenden\n- Gefahrenbremsung aus 30 km/h \n- Parken (Quer- oder Längsaufstellung)\n\n-> Grundfahraufgaben Rückwärts (Davon 1 Stück)\n- Rückwärts rechts um die Kurve unter Ausnutzung einer Einmündung oder Kreuzung\n- Rückwärts einparken (Quer - oder Längsaufstellung)\n\nDer Prüfer achtet auf folgendes während der Prüfung:\n- Fahrzeugbedienung,\n- Verkehrsbeobachtung,\n- Kommunikation mit anderen Verkehrsteilnehmer,\n- Aussteigen aus dem Fahrzeug"
+    },
+    {
+      "id": 1770642855734,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Wann ist eine Verkürzte Prüfung gemäß PrüfRichtl 5.11?",
+      "erstellt": "2026-02-09T13:14:15.734Z",
+      "antwort": "Bei Vorbesitz der Klassen A1, A auf 25 Minuten anstatt 30 Minuten reine Fahrzeit."
+    },
+    {
+      "id": 1770642890088,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Fahrtechnische Vorbereitung Klasse B gemäß PrüfRichtl Anlage 10",
+      "erstellt": "2026-02-09T13:14:50.088Z",
+      "antwort": "Überprüfung Ordnungsgemäßen Zustand der\n- Reifen,\n- Beleuchtung,\n- Rückstrahler,\n- Lenkung,\n- Bremsanlage (Betriebsbremse, Feststellbremse),\n- Flüssigkeitsstände (Motoröl, Kühlmittel, Scheibenwischflüssigkeit)."
+    },
+    {
+      "id": 1770642961862,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Welche Fahrerlaubnisklasse bei 2050 Kg zGM Zugfahrzeug + 1450 Kg zGM Anhänger ?",
+      "erstellt": "2026-02-09T13:16:01.862Z",
+      "antwort": "3475 Kg  -> Klasse B"
+    },
+    {
+      "id": 1770642989085,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Welche Stufen gibt es im Curricularen Leitfaden?",
+      "erstellt": "2026-02-09T13:16:29.085Z",
+      "antwort": "Grundausbildung:\n- Grundstufe,\n- Aufbaustufe,\n- Leistungsstufe,\n\nund\n\nWeiterführende Ausbildung:\n- Stufe der Sonderfahrten\n- Reife- und Teststufe"
+    },
+    {
+      "id": 1770643015869,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "In welchen Tunus findet die Fahrschulüberwachung statt?",
+      "erstellt": "2026-02-09T13:16:55.869Z",
+      "antwort": "- Bei Neugründung einer Fahrschule = Jährlich\n- Danach alle 2 Jahre\n- Bei Positiven Ergebnissen alle 4 Jahre (Dies Entscheidet nicht der Prüfer sondern die jeweilige Regierung)"
+    },
+    {
+      "id": 1770643029618,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Welche Parkverbote gibt es?",
+      "erstellt": "2026-02-09T13:17:09.618Z"
+    },
+    {
+      "id": 1770643060406,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Wieviele Fragen muss man in der Theoretischen Prüfung beantworten?",
+      "erstellt": "2026-02-09T13:17:40.406Z"
     }
   ],
   "schriftlich": []
