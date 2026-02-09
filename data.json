@@ -3,9 +3,16 @@
     {
       "id": 1770650599481,
       "kategorie": "Pädagogik / Erziehung",
-      "frage": "Grundlagen der Fahrschulpädagogik\nWelche frontalen Unterrichtsformen gibt es?",
+      "frage": "Welche frontalen Unterrichtsformen gibt es?",
       "antwort": "Lehrvortrag = Es werden viele Infos gegeben. Ist Lehrerzentriert, der Fahrschüler hört nur zu.\nLehrgespräch = Es wird Offen geredet, sowie die Erfahrungen der Fahrschüler gesammelt, damit werden die FS Aktiviert.",
       "erstellt": "2026-02-09T15:23:19.481Z"
+    },
+    {
+      "id": 1770651044093,
+      "kategorie": "Pädagogik / Erziehung",
+      "frage": "Welche Inhalte gehören in das Nachgespräch?",
+      "antwort": "Feedbackgespräch mit der Sandwichmethode (Gut - Schlecht - Gut)\n\nDen Fahrschüler zuerst äußern lassen.\nDer Fahrschüler soll möglichst eigenständig reflektieren\nDer Fahrlehrer soll ansprechen wo die Fehler sind\nPositives muss Hervorgehoben und bekräftigt werden\nDer Fahrlehrer muss erwähnen ob das Lernziel erreicht wurde\nDen Fahrschüler an der weiteren Planung beteiligen und Aussicht auf die nächste Fahrstunde geben.",
+      "erstellt": "2026-02-09T15:30:44.093Z"
     }
   ],
   "muendlich": [
