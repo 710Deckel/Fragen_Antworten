@@ -412,6 +412,27 @@
       "frage": "Was sind Offene und Geschlossene Fragen?",
       "antwort": "Es wird unter bestimmten Frage Techniken die Richtung, der Verlauf und das Tempo eines Gesprächs unterschieden.",
       "erstellt": "2026-02-09T19:13:57.412Z"
+    },
+    {
+      "id": 1770667642962,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Nennen Sie die Grundfahraufgaben der Klasse B",
+      "antwort": "1. Fahren nach rechts rückwärts unter Ausnutzung einer Einmündung oder Kreuzung.\n2. Längs Parken\n3. Quer Parken\n4. Umkehren\n5. Abbremsen mit höchstmöglicher Verzögerung (Gefahrenbremsung bei 30 km/h)",
+      "erstellt": "2026-02-09T20:07:22.962Z"
+    },
+    {
+      "id": 1770667716512,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Was sagt die 0,5 Promille Grenze aus?",
+      "antwort": "Ordnungswidrig handelt wer ein Kfz mit mehr als 0,5 Promille Alkohol im Blut führt.",
+      "erstellt": "2026-02-09T20:08:36.512Z"
+    },
+    {
+      "id": 1770668125780,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Nennen Sie die Voraussetzungen und den Ablauf bei der B96 Ausbildung.",
+      "antwort": "Voraussetzung: \n- Vorbesitz der Klasse B Nötig\n- Mindestalter 18 Jahre jedoch ab BF17 schon Möglich.\n\nAusbildung:\nDer theoretische Unterricht muss laut FeV 2,5 Stunden betragen und der Praktische Unterricht dauert mind. 3,5 Stunden.\nNach Absolvierung der 6 Theorie und Praxis Stunden wird noch eine Stunde in der realen Umgebung gefahren.\nEine Prüfung entfällt.\nDer Fahrschüler erhält nach erfolgreicher Absolvierung der Fahrerschulung eine Teilnahmebescheinigung, diese muss er der Fahrerlaubnisbehörde vorlegen um den Eintrag B96 zu erhalten und anschließend fahren zu dürfen.",
+      "erstellt": "2026-02-09T20:15:25.780Z"
     }
   ],
   "muendlich": [
