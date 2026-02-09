@@ -1,5 +1,13 @@
 {
-  "karteikarten": [],
+  "karteikarten": [
+    {
+      "id": 1770650599481,
+      "kategorie": "Pädagogik / Erziehung",
+      "frage": "Grundlagen der Fahrschulpädagogik\nWelche frontalen Unterrichtsformen gibt es?",
+      "antwort": "Lehrvortrag = Es werden viele Infos gegeben. Ist Lehrerzentriert, der Fahrschüler hört nur zu.\nLehrgespräch = Es wird Offen geredet, sowie die Erfahrungen der Fahrschüler gesammelt, damit werden die FS Aktiviert.",
+      "erstellt": "2026-02-09T15:23:19.481Z"
+    }
+  ],
   "muendlich": [
     {
       "id": 1770641309408,
