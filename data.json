@@ -1,5 +1,20 @@
 {
   "karteikarten": [],
-  "muendlich": [],
+  "muendlich": [
+    {
+      "id": 1770641309408,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Alter bei Beginn der Ausbildung der Klasse B",
+      "erstellt": "2026-02-09T12:48:29.408Z",
+      "antwort": "- Anmeldung ab 17 Jahre und 6 Monate bei der Behörde\n- Theorie Prüfung ab 17 Jahre und 9 Monate möglich\n- Praktische Prüfung 17 Jahre und 11 Monate möglich"
+    },
+    {
+      "id": 1770641844409,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Ablauf der Praktischen Prüfung",
+      "erstellt": "2026-02-09T12:57:24.409Z",
+      "antwort": "- Gesamtzeit = 55 Minuten - Reine Fahrzeit = 30 Minuten\n- Prüfung der Personalien, \n- ggf. technische Fragen,\n- Prüfer erklärt Prüfungsfahrtablauf,\n- Grundfahraufgaben von 5 möglichen werden 3 geprüft,\n-> Grundfahraufgaben Vorwärts (Davon 2 Stück)\n- Umkehren / Wenden\n- Gefahrenbremsung aus 30 km/h \n- Parken (Quer- oder Längsaufstellung)\n\n-> Grundfahraufgaben Rückwärts (Davon 1 Stück)\n- Rückwärts rechts um die Kurve unter Ausnutzung einer Einmündung oder Kreuzung\n- Rückwärts einparken (Quer - oder Längsaufstellung)\n\nDer Prüfer achtet auf folgendes während der Prüfung:\n- Fahrzeugbedienung,\n- Verkehrsbeobachtung,\n- Kommunikation mit anderen Verkehrsteilnehmer,\n- Aussteigen aus dem Fahrzeug"
+    }
+  ],
   "schriftlich": []
 }
