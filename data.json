@@ -104,7 +104,7 @@
       "kategorie": "Verkehrsverhalten",
       "frage": "Ablauf ASF-Seminar",
       "erstellt": "2026-02-09T13:56:48.358Z",
-      "antwort": "4 Sitzungen zu je 35 Minuten, zwischen der 1. und 2ten Sitzung muss die Beobachtungsfahrt stattfinden (30 Minuten). Mindestens 6 Teilnehmer, aber Max. 12 Teilnehmer, Mind. 2 Wochen, Max. 4 Wochen. Voraussetzung für den Erhalt ist die vollständige Teilnahme an allen Sitzungen und der Beobachtungsfahrt!"
+      "antwort": "4 Sitzungen zu je 35 Minuten, zwischen der 1. und 2ten Sitzung muss die Beobachtungsfahrt stattfinden (30 Minuten). Mindestens 6 Teilnehmer, aber Max. 12 Teilnehmer, Mind. 2 Wochen, Max. 4 Wochen. Voraussetzung für den Erhalt ist die vollständige Teilnahme an allen Sitzungen und der Beobachtungsfahrt!\nMuss durch einen ASF Leiter durchgeführt werden"
     },
     {
       "id": 1770645481203,
@@ -132,7 +132,14 @@
       "kategorie": "Verkehrsverhalten",
       "frage": "Ablauf FES-Seminar?",
       "erstellt": "2026-02-09T14:02:25.777Z",
-      "antwort": "2x 90 Minuten Pädagogischer Teil,\n2x 75 Minuten Verkehrspsychologischer Teil,\n1-6 Teilnehmer\nZwischen der 1ten Sitzung und der 2ten Sitzung muss eine Woche Pause sein."
+      "antwort": "2x 90 Minuten Pädagogischer Teil,\n2x 75 Minuten Verkehrspsychologischer Teil,\n1-6 Teilnehmer\nZwischen der 1ten Sitzung und der 2ten Sitzung muss eine Woche Pause sein.\nMuss durch einen FES Leiter durchgeführt werden!"
+    },
+    {
+      "id": 1770645793574,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Zeichnen Sie den Toten Winkel an einem PKW",
+      "erstellt": "2026-02-09T14:03:13.574Z",
+      "antwort": "Siehe Link: \nhttps://de.wikipedia.org/wiki/Toter_Winkel"
     }
   ],
   "schriftlich": []
