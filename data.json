@@ -63,6 +63,76 @@
       "frage": "Wieviele Fragen muss man in der Theoretischen Prüfung beantworten?",
       "erstellt": "2026-02-09T13:17:40.406Z",
       "antwort": "30 bei Ersterwerb (20 Grundstoff und 10 Klassenspezifisch - 10 Fehlerpunkte wobei 5+5= 11 Fehlerpunkte und damit Durchgefallen)\n20 bei Erweiterung (10 Grundstoff und 10 Klassenspezifisch - 6 Fehlerpunkte)"
+    },
+    {
+      "id": 1770644875781,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Was passiert bei Punkten in der Probezeit?",
+      "erstellt": "2026-02-09T13:47:55.781Z",
+      "antwort": "Bei jeder Stufe = 1x A Verstoß oder 2x B Verstöße\n- 1te Stufe- Aufbauseminar für Fahranfänger + Probezeitverlängerung um 2 Jahre\n- 2te Stufe- Verwarnung durch Behörde, Empfehlung für Verkehrspsychologisches Gespräch\n- 3te Stufe- Entzug, Sperrfrist 3 Monate, Probezeit endet vorzeitig\n- 4te Stufe- MPU"
+    },
+    {
+      "id": 1770644996118,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Wie sieht eine Automatische Schaltkulisse aus?",
+      "erstellt": "2026-02-09T13:49:56.118Z",
+      "antwort": "P = Parken\nR = Rückwärts\nN = Leerlauf\nD/S = Drive / Sportmodus"
+    },
+    {
+      "id": 1770645029030,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Wieviel Unterrichtsstunden bei der Klasse B?",
+      "erstellt": "2026-02-09T13:50:29.030Z",
+      "antwort": "12 Grundstoff und 2 Klassenspezifische"
+    },
+    {
+      "id": 1770645143693,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Wie läuft die Ausbildung bei B96 ab?",
+      "erstellt": "2026-02-09T13:52:23.693Z",
+      "antwort": "Fahrerschulung Theorie 2,5 Zeitstunden, 3,5 Übungsstunden (Zeitstunden), 1 Zeitstunde im Öffentlichen Straßenverkehr anschließend gibt es die Teilnahmebescheinigung . Bei 4 Teilnehmern 1 Zug, mehr als 4 Teilnehmern 2 Züge, Max. 8 Teilnehmer."
+    },
+    {
+      "id": 1770645201951,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Wieviele Sonderfahrten werden bei BE benötigt?",
+      "erstellt": "2026-02-09T13:53:21.951Z",
+      "antwort": "3 Überlandfahrten\n1 Autobahnfahrt\n1 Dunkelheit und Dämmerungsfahrt"
+    },
+    {
+      "id": 1770645408358,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Ablauf ASF-Seminar",
+      "erstellt": "2026-02-09T13:56:48.358Z",
+      "antwort": "4 Sitzungen zu je 35 Minuten, zwischen der 1. und 2ten Sitzung muss die Beobachtungsfahrt stattfinden (30 Minuten). Mindestens 6 Teilnehmer, aber Max. 12 Teilnehmer, Mind. 2 Wochen, Max. 4 Wochen. Voraussetzung für den Erhalt ist die vollständige Teilnahme an allen Sitzungen und der Beobachtungsfahrt!"
+    },
+    {
+      "id": 1770645481203,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Thema \"Lebenslanges Lernen\": Welche Weiterbildungsmöglichkeiten gibt es?",
+      "erstellt": "2026-02-09T13:58:01.203Z",
+      "antwort": "- Fachzeitschriften\n- Fahrschulbesuch\n- Internet\n- Drivemind App :)\n- Fahrsicherheitstraining\n- Erfahrung sammeln"
+    },
+    {
+      "id": 1770645538298,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Skizze des Abblendlichts / Fernlichts?",
+      "erstellt": "2026-02-09T13:58:58.298Z",
+      "antwort": "Sieht aus wie ein Backhandschuh, abknickend nach unten, Fernlicht Geradeaus strahlend nach vorne - Blendgefahr Gegenverkehr."
+    },
+    {
+      "id": 1770645643878,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Welche Intervalle gibt es bei der Fahrlehrerweiterbildung?",
+      "erstellt": "2026-02-09T14:00:43.878Z",
+      "antwort": "§53 FahrlG alle 4 Jahre je 3 Tage oder jährlich 1 Tag.\nAblauffrist: letzter Tag des Kalenderjahres"
+    },
+    {
+      "id": 1770645745777,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Ablauf FES-Seminar?",
+      "erstellt": "2026-02-09T14:02:25.777Z",
+      "antwort": "2x 90 Minuten Pädagogischer Teil,\n2x 75 Minuten Verkehrspsychologischer Teil,\n1-6 Teilnehmer\nZwischen der 1ten Sitzung und der 2ten Sitzung muss eine Woche Pause sein."
     }
   ],
   "schriftlich": []
