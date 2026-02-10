@@ -694,6 +694,34 @@
       "frage": "Welche Voraussetzungen gelten für die Begleitperson bei BF17",
       "erstellt": "2026-02-10T13:39:33.341Z",
       "antwort": "- Mindestens 30 Jahre alt\n- max. 1 Punkt \n- 5 Jahre durchgehende Fahrerlaubnis \n- Promillegrenze während des BF17 Begleiten für die Begleitperson 0,5 Promille"
+    },
+    {
+      "id": 1770730919788,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Was ist der Unterschied zwischen den Verkehrszeichen \"Richtgeschwindigkeit\" und \"Mindestgeschwindigkeit\"?",
+      "erstellt": "2026-02-10T13:41:59.788Z",
+      "antwort": "- Richtgeschwindigkeit: Viereckig, Blauer Hintergrund mit Schwarzen Sinnbild = Eine Empfehlung\n- Mindestgeschwindigkeit: Rund, Blauer Hintergrund mit Schwarzer Zahl = Vorschriftszeichen"
+    },
+    {
+      "id": 1770731269820,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Welche Geschwindigkeit darf auf einem Einfädelungsstreifen gefahren werden?",
+      "erstellt": "2026-02-10T13:47:49.820Z",
+      "antwort": "Die Höchstgeschwindigkeit, die auf diesem Abschnitt gilt, darf nicht überschritten werden, jedoch ist die Geschwindigkeit so zu wählen, dass man sich in den fließenden Verkehr einordnen kann."
+    },
+    {
+      "id": 1770731420695,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Welche Geschwindigkeit darf mit eingeschalteter Nebelschlussleuchte gefahren werden und welche Bedingungen gelten ab dann?",
+      "erstellt": "2026-02-10T13:50:20.695Z",
+      "antwort": "Bei einer Sichtweite von maximal 50 Meter und nur bei Nebel dürfen maximal 50 Km/h gefahren werden."
+    },
+    {
+      "id": 1770731558318,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Welche Fahrstreifen dürfen i.G.O  befahren werden sofern es mehrere markierte Fahrstreifen für eine Richtung gibt?",
+      "erstellt": "2026-02-10T13:52:38.318Z",
+      "antwort": "Kraftfahrzeuge bis 3,5 Tonnen zGM haben i.G.O freie Fahrstreifenwahl."
     }
   ],
   "schriftlich": []
