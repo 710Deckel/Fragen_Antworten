@@ -503,6 +503,34 @@
       "frage": "Erklären Sie den Anhalteweg inkl. der Formel",
       "antwort": "Der Anhalteweg setzt sich aus dem Reaktionsweg und dem Bremsweg zusammen, also vom Erkennen einer Gefahr & über dem Bremsweg des Fahrzeugs bis zum Stillstand.\n\nFormel:\nReaktionsweg + Bremsweg = Anhalteweg",
       "erstellt": "2026-02-10T18:01:39.404Z"
+    },
+    {
+      "id": 1770747200353,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Erklären Sie den Bremsweg inkl. der Formel",
+      "antwort": "Der Bremsweg ist der Weg den das Fahrzeug vom Zeitpunkt der Betätigung des Bremspedal bis zum Stillstand zurücklegt.\n\nFormel:\nGeschwindigkeit (V) / 10 x Geschwindigkeit (V) / 10 = Bremsweg",
+      "erstellt": "2026-02-10T18:13:20.353Z"
+    },
+    {
+      "id": 1770747301745,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Erklären Sie den Reaktionsweg inkl. der Formel",
+      "antwort": "Der Reaktionsweg ist der Weg den das Fahrzeug in Metern zurücklegt - vom Zeitpunkt des erkennen einer Gefahr bis zum Betätigung des Bremspedals.\n\nFormel:\nGeschwindigkeit (V) / 10 x 3 = Reaktionsweg",
+      "erstellt": "2026-02-10T18:15:01.745Z"
+    },
+    {
+      "id": 1770747489774,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Was wissen Sie über das Verkehrszeichen Nr. 277 - Überholverbot für Kraftfahrzeuge über 3,5 Tonnen?",
+      "antwort": "Verbot: \nÜberholverbot für Kraftfahrzeuge mit einer zGM über 3,5 tonnen, einschließlich Anhänger und Zugmaschinen.\nAusgenommen hiervon sind Personenkraftwagen und Kraftomnibusse\n\nÜberholt werden dürfen:\n- Fahrzeuge wie z.B. Fahrräder oder Kutschen\n- Einspurige Kraftfahrzeuge wie Mofas und Motorräder\n- Sonstige Kraftfahrzeuge die nach Definition keine Kraftfahrzeuge sind wie z.B. Straßenbahnen.",
+      "erstellt": "2026-02-10T18:18:09.774Z"
+    },
+    {
+      "id": 1770747638289,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Was wissen Sie über das Verkehrszeichen Nr. 260 - Verbot für Kraftfahrzeuge.",
+      "antwort": "Verbot:\nDurchfahren, Einfahren, Wenden - das Verbot gilt für alle\n- Krafträder\n- Krafträder mit Beiwagen\n- Kleinkrafträder und Mofas\n- Kraftwagen und sonstige mehrspurige Kraftfahrzeuge\n\nAusnahmen hiervon:\n- Fußgänger\n- Fahrräder und sonstige Fahrzeuge\n- Reiter und Treiber / Führer von Vieh",
+      "erstellt": "2026-02-10T18:20:38.289Z"
     }
   ],
   "muendlich": [
