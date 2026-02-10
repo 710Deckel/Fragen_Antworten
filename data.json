@@ -629,6 +629,41 @@
       "frage": "Ab welcher länge muss ein PKW mit Anhänger außerorts auf Straßen mit nur einem Fahrstreifen für jede Richtung vom Vorausfahrenden einen so großen Abstand halten, dass ein \"Überholer\" einscheren kann?",
       "antwort": "Ab einer Fahrzeugkombi von 7 Meter muss der Abstand zum Vorausfahrenden Fharzeug so groß sein, dass ein Überholender einscheren kann.",
       "erstellt": "2026-02-10T19:19:49.214Z"
+    },
+    {
+      "id": 1770751275308,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Welcher Mindestabstand vor einer Ampel muss ein Fahrzeug beim Halten einhalten, wenn diese durch das Fahrzeug verdeckt würde?",
+      "antwort": "Es muss ein Mindestabstand von 10 Meter beim Halten eingehalten werden, wenn die Ampel durch das Fahrzeug verdeckt werden würde.",
+      "erstellt": "2026-02-10T19:21:15.308Z"
+    },
+    {
+      "id": 1770751391472,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Welche Geschwindigkeit muss in den Fahrzeugpapieren eingetragen sein, um auf die Autobahnen fahren zu dürfen?",
+      "antwort": "Die bbH muss mind. mit 61 km/h eingetragen sein.",
+      "erstellt": "2026-02-10T19:23:11.472Z"
+    },
+    {
+      "id": 1770751698182,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Welche Voraussetzungen sind vorgeschrieben um eine 100 km/h Zulassung für einen Kraftfahrzeug Anhänger zu erhalten?",
+      "antwort": "- Das Zugfahrzeug muss mit ABS ausgestattet sein\n- Der Anhänger muss für die 100 km/h geeignet sein\n- Die Reifen des Anhängers müssen für mind. 120 km/h ausgelegt sein (Index \"L\"\n- Die Reifen des Anhängers dürfen nicht älter als 6 Jahre alt sein.\n- Die Ausnutzung der Stützlast\n- Es muss eine 100 km/h Plakette am Anhänger gesiegelt sein\n- Die Eignung der 100km/h Zulassung muss in der Zulassungsbescheinigung Teil 1 eingetragen sein.",
+      "erstellt": "2026-02-10T19:28:18.182Z"
+    },
+    {
+      "id": 1770751793419,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Erklären Sie \"Schleppen\"",
+      "antwort": "Schleppen ist das Fortbewegen eines betriebsfähigen Fahrzeugs, ohne dass eine technische Notlage vorliegt.\nDas Schleppen ist genehmigungspflichtig.",
+      "erstellt": "2026-02-10T19:29:53.419Z"
+    },
+    {
+      "id": 1770752088383,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Erklären Sie \"Abschleppen\"",
+      "antwort": "Das Abschleppen dient dazu, ein betriebsunfähiges also ein Defektes Fahrzeug von der Straße zu einen anderen Ort zu verbringen. Es muss jedoch der Nothilfegedanke vorliegen. \n\n- Beim Abschleppen eines Kraftfahrzeugs genügt die Fahrerlaubnis für die klasse des abschleppenden Fahrzeugs.\n- Der Fahrer des abgeschleppten Fahrzeugs sollte mindestens 15 Jahre alt und geeignet sein, er benötigt jedoch Fahrerlaubnis da das Kraftfahrzeug in diesem Moment als Fahrzeug betrieben wird.\n\n- Es muss die Warnblinkanlage eingeschaltet werden und zwischen dem Fahrzeugen darf die Stange oder das Seil nicht länger als 5 Meter sein. \n\n- Krafträder dürfen nicht abgeschleppt werden.\n\n- Beim Abschleppen auf der Autobahn muss die nächste Ausfahrt genommen werden.\n- Beim Abschleppen darf nicht auf die Autobahn gefahren werden.",
+      "erstellt": "2026-02-10T19:34:48.383Z"
     }
   ],
   "muendlich": [
