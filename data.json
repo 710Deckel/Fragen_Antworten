@@ -489,6 +489,20 @@
       "frage": "Erklären Sie den Überholweg anschaulich",
       "antwort": "Der Überholweg ist die Strecke, die ein Fahrzeug für den Sicheren Überholvorgang unter Einhaltung des Sicherheitsabstands benötigt.\nDie Formel lautet wie folgt: V1 / V1 - V2 x L = Überholweg\nEin Beispiel hierzu:\nPkw fährt 100 Km/h (V1) & überholt einen Lkw der 80 km/h (V2) fährt. Der Pkw mit einer Länge von 5 Meter und einen Sicherheitsabstand zum Lkw mit 50 Meter (Halber Tacho). Der Lkw mit einer Länge von 10 Meter und einem Sicherheitsabstand zum Einscheren von 40 Meter (Halber Tacho). \n\n1. Gesamtlänge (L) berechnen\nStrecke, die der Pkw insgesamt gutmachen muss:\n\nL = 50 m + 10 m + 5 m + 40 m\nL = 105 m\n\n2. Überholweg berechnen\n\nFormel:\nÜberholweg = V1 / (V1 – V2) × L\n\nEinsetzen:\nÜberholweg = 100 / (100 – 80) × 105\nÜberholweg = 100 / 20 × 105\nÜberholweg = 5 × 105\n\nErgebnis:\n👉 Überholweg = 525 Meter",
       "erstellt": "2026-02-10T13:29:10.866Z"
+    },
+    {
+      "id": 1770746355371,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Welche Unterschiede & Gemeinsamkeit kennen Sie bei Kraftfahrstraßen sowie Autobahnen?",
+      "antwort": "Kraftfahrstraßen:\n- Es gelten die üblichen Höchstgeschwindigkeiten\n- Kann im Gegensatz zur Autbahn auf gleicher Ebene gekreuzt werden\n- Fußgänger können ggf. an vorhergesehenen Stellen Stellen die Straße überqueren\n- Verkehrsregelungen kann an Knotenpunkten durch Lichtzeichenanlagen oder Kreisbahnen erfolgen.\n\nAutobahnen:\n- Sofern es nicht anders gekennzeichnet ist, gilt auf Autobahnen kein Vorgeschriebenes Tempolimit \n- Führer eines KFZ müssen jedoch innerhalb der Sichtweite anhalten können\n- Zusätzlich gilt eine Richtgeschwindigkeit\n\nGemeinsamkeit:\n- Ausschließlich Nutzung von Fahrzeugen deren bbH mehr als 60 km/h beträgt. \n- Der Seitenstreifen ist nicht Bestandteil der Fahrbahn\n- Das Rechtsfahrgebot ist einzuhalten!\n\nEs gelten Geschwindigkeitsbegrenzungen für folgende Fahrzeuge:\n\n- PKW + Anhänger max. 80 Km/h (Ausnahme siehe 100er Zulassungsverordnung StVO)\n- LKW mit oder ohne Anhänger sowie Omnibusse ohne Anhänger 80 km/h\n- Omnibusse mit entsprechender Zulassung 100 Km/h\n- Omnibusse mit Anhänger 80 km/h\n- Krafträder mit Anhänger 60km/h\n\n\nVerbote:\n- Anhalten außer bei Panne -> Seitenstreifen benutzen!\n- Wenden\n- Rückwärtsfahren",
+      "erstellt": "2026-02-10T17:59:15.371Z"
+    },
+    {
+      "id": 1770746499404,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Erklären Sie den Anhalteweg inkl. der Formel",
+      "antwort": "Der Anhalteweg setzt sich aus dem Reaktionsweg und dem Bremsweg zusammen, also vom Erkennen einer Gefahr & über dem Bremsweg des Fahrzeugs bis zum Stillstand.\n\nFormel:\nReaktionsweg + Bremsweg = Anhalteweg",
+      "erstellt": "2026-02-10T18:01:39.404Z"
     }
   ],
   "muendlich": [
