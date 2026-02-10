@@ -699,6 +699,83 @@
       "frage": "Was versteht man unter \"Progressiven Bremsen\"?",
       "antwort": "Unter Progressivem Bremsen versteht man ein zunächst Leichtes Bremsen und Starken Bremsen zum Ende hin. Das Fahrzeug kommt dadurch stark zum Stillstand.",
       "erstellt": "2026-02-10T19:46:58.823Z"
+    },
+    {
+      "id": 1770752983206,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Welche Eigenschaften sollte ein Fahrlehrer haben?",
+      "antwort": "Fahrlehrer sollten..\n\n- Verständnisvoll\n- geduldig\n- freundlich\n- motiviert\n- kompetent\n- gebildet\n- humorvoll\n- seriös\n- belastbar\n- pünktlich\n- flexibel\n- pflichtbewusst\nsein.",
+      "erstellt": "2026-02-10T19:49:43.206Z"
+    },
+    {
+      "id": 1770753764707,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Erklären Sie den Unterschied zwischen Vorrang und Vorfahrt",
+      "antwort": "🚗 Vorfahrt\n\nRegelt, wer an Kreuzungen oder Einmündungen zuerst fahren darf.\n👉 Betrifft sich kreuzende Verkehrswege (z. B. rechts vor links, Vorfahrtsschilder).\n\n🚋 Vorrang\n\nRegelt, wer in bestimmten Verkehrssituationen bevorzugt fahren darf, auch außerhalb von Kreuzungen.\n👉 Beispiele: Fußgänger am Zebrastreifen, Bus beim Abfahren von der Haltestelle, Einsatzfahrzeuge mit Blaulicht.",
+      "erstellt": "2026-02-10T20:02:44.707Z"
+    },
+    {
+      "id": 1770753851019,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Wie lautet die Definition von Kraftfahrzeug?",
+      "antwort": "Ein nicht an Schienen gebundenes Landfahrzeug das durch Maschinenkraft angetrieben ist.",
+      "erstellt": "2026-02-10T20:04:11.019Z"
+    },
+    {
+      "id": 1770754005708,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Wieviele Sonderfahrten sind für die Klasse BE vorgeschrieben?",
+      "antwort": "Auf Bundes- oder Landstraßen = 3 UE zu je 45 Minuten wobei 1 UE davon 90 Minuten am Stück sein muss.\nAuf Bundesautobahnen = 1 UE zu je 45 Minuten\nDunkelheits- und Dämmerungsfahrt = 1 UE zu je 45 Minuten wobei davon die hälfte auf einer BAB, Bundes- oder Landstraße stattfinden muss.",
+      "erstellt": "2026-02-10T20:06:45.708Z"
+    },
+    {
+      "id": 1770754086322,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Welche Fahrerlaubnisklassen dürfen Fahrlehrer mit der der FE Klasse BE ausbilden?",
+      "antwort": "Klasse L, B und BE",
+      "erstellt": "2026-02-10T20:08:06.322Z"
+    },
+    {
+      "id": 1770754242786,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Was wissen Sie über Theorieunterrichte?",
+      "antwort": "Die Fahrschüler müssen insgesamt 14 Lektionen zu je 90 Minuten in der Theorie absolvieren wobei davon 12 Lektionen Grundstoff sein müssen und 2 Lektionen im Zusatzstoff. Lektion 13 und 14 müssen zwingend teilgenommen werden. Bei den Grundstofflektionen können alle Lektionen wiederholt werden oder durcheinander gewürfelt werden, wobei nach Sinn und Zweck ausgebildet werden.",
+      "erstellt": "2026-02-10T20:10:42.787Z"
+    },
+    {
+      "id": 1770754426422,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Welche Grundfahraufgaben gibt es bei der Fahrerlaubnisklasse B in der Prüfungsfahrt?",
+      "antwort": "Es gibt 5 Grundfahraufgaben wobei diese in 2 Gruppen aufgeteilt sind und 3 Grundfahraufgaben insgesamt Pflicht sind, davon 2 aus Gruppe 1 und 1x aus Gruppe 2.\n\nGruppe 1: \n1: Gefahrenbremsung bei 30 km/h\n2: Einfahren in eine Parklücke (Quer- oder Schrägaufstellung)\n3: Umkehren\n\nGruppe 2:\n1: Rückwärtsfahren in eine Parklücke (Längsaufstellung)\n2: Fahren nach rechts rückwärts unter Ausnutzung einer Einmündung oder einer Kreuzung.",
+      "erstellt": "2026-02-10T20:13:46.422Z"
+    },
+    {
+      "id": 1770754674965,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Wie oft hat die Fahrlehrerweiterbildung nach § 53 FahrlG zu erfolgen?",
+      "antwort": "- Bei Neuerwerb der Fahrlehrererlaubnis das erste Mal nach 4 Jahren (möglich sind auch 5 Jahre)\n- Generell gilt alle 4 Jahre je 3 Tage Fortbildung\n- oder 4x 1 Tag in einem Jahr oder 2x2 Tage in einem Jahr",
+      "erstellt": "2026-02-10T20:17:54.965Z"
+    },
+    {
+      "id": 1770754877826,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Was steht in §1 der StVO?",
+      "antwort": "Abs. 1:\nDie Teilnahme am Straßenverkehr erfordert ständige Vorsicht und gegenseitige Rücksicht\n\nAbs. 2:\nWer am Verkehr teilnimmt hat sich so zu verhalten, dass kein anderer geschädigt, gefährdet oder mehr als nach den Umständen unvermeidbar, behindert oder belästigt wird.",
+      "erstellt": "2026-02-10T20:21:17.826Z"
+    },
+    {
+      "id": 1770755272754,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Welche Voraussetzungen gibt es für die Ausbildung BF17?",
+      "antwort": "- Anmeldung frühestens mit 16,5 Jahren\n- Prüfung Theoretisch frühestens 3 Monate vor Vollendung des 17. Lebensjahr\n- Prüfung Praktisch frühestens 1 Monat vor Vollendung des 17. Lebensjahr\n- Nach Fahrprüfung erhält der 17 Jährige eine Prüfbescheinigung\n- die Prüfbescheinigung ist nur mit einen Personalausweis gültig und muss mitgeführt werden\n- Gilt nur in Deutschland und Österreich\n- Nur mit eingetragener Begleitperson ist das Fahren erlaubt\n- 0,0 Promille Grenze bis zum 21 Lebensjahr und innerhalb der Probezeit\n\n\nFür die Begleitperson:\n- Mindestens 30 Jahre alt\n- Mindestens 5 Jahre die Fahrerlaubnis Klasse B\n- Nicht mehr als 1 Punkt in Fahreignungsregister\n- Begleitperson muss als solche auf der Prüfbescheinigung eingetragen sein\n- 0,5 Promille Grenze gilt nur für die Begleitperson",
+      "erstellt": "2026-02-10T20:27:52.754Z"
+    },
+    {
+      "id": 1770755447408,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Wie lauten die 5 Stufen im Curricularen Leitfaden und der Anliegenden ADK?",
+      "antwort": "Grundausbildung bestehend aus \n1. Grundstufe\n2. Aufbaustufe\n3. Leistungsstufe\n\nDie fortführende Ausbildung bestehend aus:\n4. Sonderfahrten und\n5. Reife- und Teststufe",
+      "erstellt": "2026-02-10T20:30:47.408Z"
     }
   ],
   "muendlich": [
