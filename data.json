@@ -531,6 +531,34 @@
       "frage": "Was wissen Sie über das Verkehrszeichen Nr. 260 - Verbot für Kraftfahrzeuge.",
       "antwort": "Verbot:\nDurchfahren, Einfahren, Wenden - das Verbot gilt für alle\n- Krafträder\n- Krafträder mit Beiwagen\n- Kleinkrafträder und Mofas\n- Kraftwagen und sonstige mehrspurige Kraftfahrzeuge\n\nAusnahmen hiervon:\n- Fußgänger\n- Fahrräder und sonstige Fahrzeuge\n- Reiter und Treiber / Führer von Vieh",
       "erstellt": "2026-02-10T18:20:38.289Z"
+    },
+    {
+      "id": 1770747897231,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Was wissen Sie über das Verkehrszeichen Nr. 276 - Überholverbot für Kraftfahrzeuge aller Art?",
+      "antwort": "Verbot:\nEs dürfen keine mehrspurigen Kraftfahrzeuge und Krafträder mit Beiwagen überholt werden.\n\nGebot:\nÜberholt werden dürfen also:\n- Fahrzeuge wie z.B. Fahrräder und Kutschen\n- Einspurige Kraftfahrzeuge wie z.B. Mofas und Motorräder\n- Sonstige Kraftfahrzeuge die nach der Definition keine Kraftfahrzeuge sind wie z.B. Straßenbahnen",
+      "erstellt": "2026-02-10T18:24:57.231Z"
+    },
+    {
+      "id": 1770748020077,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Was wissen Sie über das Verkehrszeichen Nr. 253 - Verbot für Kraftfahrzeuge mit einer zGM von über 3,5 Tonnen, einschließlich ihrer Anhänger und Zugmaschinen",
+      "antwort": "Verbot:\n- Durchfahren\n- Einfahren\n- Wenden\nDas Verbot gilt für alle Kraftfahrzeuge über 3,5 Tonnen einschließlich Anhänger und Zugmaschinen\n\nAusnahmen:\n- Pkw und Kraftomnibusse\n- Alle weiteren Kraftfahrzeuge unter 3,5 Tonnen zGM",
+      "erstellt": "2026-02-10T18:27:00.077Z"
+    },
+    {
+      "id": 1770748092434,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Was wissen Sie über das Verkehrszeichen Nr. 251 - Verbot für Kraftwagen",
+      "antwort": "Verbot:\n- Durchfahren\n- Einfahren\n- Wenden\nDas Verbot gilt für alle Pkw, Lkw und mehrspurige Fahrzeuge\n\nAusnahmen:\n- Krafträder\n- Fahrräder",
+      "erstellt": "2026-02-10T18:28:12.434Z"
+    },
+    {
+      "id": 1770748216817,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Was wissen Sie über das Verkehrszeichen Nr. 250 - Verbot für Fahrzeuge aller Art",
+      "antwort": "Verbot:\n- Durchfahren\n- Einfahren\n- Wenden\nDas Verbot gilt für alle Fahrzeuge\n\nAusnahmen:\n- Krafträder und Fahrräder müssen geschoben werden\n- Handfahrzeuge wie z.B. Handkarren, Bollerwagen, Kinderwagen etc.)\n- Reiter\n- Führer von Pferden\n- Treiber und Führer von Vieh",
+      "erstellt": "2026-02-10T18:30:16.817Z"
     }
   ],
   "muendlich": [
