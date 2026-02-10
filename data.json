@@ -587,6 +587,48 @@
       "frage": "Welche Arbeitszeiten gelten für Fahrlehrer?",
       "antwort": "- Die maximale Arbeitszeit (Praktisch) liegt bei täglich 495 Minuten also 11 Unterrichtseinheiten (UE) - Die Prüfungsfahrten sind bereits inbegriffen.\n- Aufteilbar wie folgt: 11 UE Praxis = 495 Minuten + 105 Minuten Theorie Unterricht, Büro etc. = 600 Minuten also 10 Stunden.\n- Pausen: 1x Pause nach max 6 Stunden (360 Minuten) von mind. 30 Minuten. und bei mehr als 9 Stunden min. 45 Minuten.\n- Ruhezeiten: 11 Stunden wobei eine mögliche Verkürzung der Ruhezeit auf 10 Stunden, wenn innerhalb eines Kalendermonats oder innerhalb 4 Wochen auf 12 Stunden ausgeglichen wird, besteht.\n- An Sonn- und Feiertagen darf nicht ausgebildet werden!",
       "erstellt": "2026-02-10T19:09:53.006Z"
+    },
+    {
+      "id": 1770750745539,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Wieviel Meter beträgt der Mindestabstand vor einem Fußgängerüberweg beim Halten und Parken?",
+      "antwort": "Auf Fußgängerüberwegen sowie 5 Meter davor.",
+      "erstellt": "2026-02-10T19:12:25.539Z"
+    },
+    {
+      "id": 1770750813197,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Wie weit vor einem Haltestellenschild darf nicht geparkt werden?",
+      "antwort": "Es sind 15 Meter davor und darauf.",
+      "erstellt": "2026-02-10T19:13:33.197Z"
+    },
+    {
+      "id": 1770750893714,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Wieviel Meter i.G.O darf ich vor einem Andreaskreuz nicht parken?",
+      "antwort": "Innerhalb Geschlossener Ortschaften darf bis zu 5 Meter vor dem Andreaskreuz nicht geparkt werden.",
+      "erstellt": "2026-02-10T19:14:53.714Z"
+    },
+    {
+      "id": 1770751023783,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "In welchem Bereich vor und hinter Kreuzungen sowie Einmündungen ist das Parken verboten?",
+      "antwort": "Das Parken vor und hinter Kreuzungen sowie Einmündungen im Bereich von unter 5 Metern ist verboten.",
+      "erstellt": "2026-02-10T19:17:03.783Z"
+    },
+    {
+      "id": 1770751067558,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Sie verdoppeln Ihre Geschwindigkeit, wie verändert sich der Bremsweg?",
+      "antwort": "Der Bremsweg vervierfacht sich!",
+      "erstellt": "2026-02-10T19:17:47.558Z"
+    },
+    {
+      "id": 1770751189214,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Ab welcher länge muss ein PKW mit Anhänger außerorts auf Straßen mit nur einem Fahrstreifen für jede Richtung vom Vorausfahrenden einen so großen Abstand halten, dass ein \"Überholer\" einscheren kann?",
+      "antwort": "Ab einer Fahrzeugkombi von 7 Meter muss der Abstand zum Vorausfahrenden Fharzeug so groß sein, dass ein Überholender einscheren kann.",
+      "erstellt": "2026-02-10T19:19:49.214Z"
     }
   ],
   "muendlich": [
