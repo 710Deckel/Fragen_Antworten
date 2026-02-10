@@ -454,6 +454,20 @@
       "frage": "Wann darf der Fahrlehrer die Theoretische und praktische Ausbildung abschließen?",
       "antwort": "Der Fahrlehrer darf die Theoretische und praktische Ausbildung erst abschließen, wenn der Bewerber den Unterricht im gesetzlich vorgeschriebenen Umfang absolviert hat und der Fahrlehrer überzeugt davon ist, dass die Ausbildungsziel nach §1 der FahrschAusbO erreicht sind",
       "erstellt": "2026-02-10T12:55:29.714Z"
+    },
+    {
+      "id": 1770728295633,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Was verstehen Sie unter der Art und dem Umfang der Ausbildung nach § 2 FahrschAusbO?",
+      "antwort": "Die Ausbildung erfolgt in einem Theoretischen und einem praktischen Teil. Beide Teile sollen in der Aufmachung aufeinander bestimmt sein und Verzahnt werden.",
+      "erstellt": "2026-02-10T12:58:15.633Z"
+    },
+    {
+      "id": 1770728374805,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Was ist das Ziel der Ausbildung gemäß § 1 der FahrschAusbO?",
+      "antwort": "Ziel der Ausbildung ist die Befähigung zum Sicheren, Verantwortungsvollen und Umweltbewussten Verkehrsteilnehmer sowie die Vorbereitung auf die Prüfung.",
+      "erstellt": "2026-02-10T12:59:34.805Z"
     }
   ],
   "muendlich": [
