@@ -602,7 +602,21 @@
       "kategorie": "Verkehrsverhalten",
       "frage": "Nenne die Unterschiede von einer Bundesautobahn und einer Kraftfahrstraße.",
       "erstellt": "2026-02-10T12:18:07.391Z",
-      "antwort": "- Unterschiedliche Verkehrszeichen\n- Auf Kraftfahrstraßen können Sonderfahrstreifen, Lichtzeichenanlage, Kreuzungen und Einmündungen sein.\n- Auf Autobahnen ist die Ausfahrt, bis auf eine immer Rechts\n- Bei Kraftfahrstraßen sind diese in der Regel Links und Rechts\n- Auf Autobahnen gilt grundsätzlich die Richtgeschwindigkeitsverordnung \n- Auf Kraftfahrstraßen gelten grundsätzlich Geschwindigkeitsvorschriften nach Fahrbahnbeschaffenheiten.\n- Auf Kraftfahrstraßen gibt es keine Raststätten."
+      "antwort": "- Unterschiedliche Verkehrszeichen\n- Auf Kraftfahrstraßen können Sonderfahrstreifen, Lichtzeichenanlage, Kreuzungen und Einmündungen sein.\n- Auf Autobahnen ist die Ausfahrt, bis auf eine immer Rechts\n- Bei Kraftfahrstraßen sind diese in der Regel Links und Rechts\n- Auf Autobahnen gilt grundsätzlich die Richtgeschwindigkeitsverordnung \n- Auf Kraftfahrstraßen gelten grundsätzlich Geschwindigkeitsvorschriften nach Fahrbahnbeschaffenheiten."
+    },
+    {
+      "id": 1770726200594,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Was versteht man unter §3 der FahrschAusbO \"Exemplarische Vertiefung\"?",
+      "erstellt": "2026-02-10T12:23:20.594Z",
+      "antwort": "Unter der Exemplarischen Vertiefung versteht man ein Bespiel, welches auf die gleichen Situationen oder Verkehrszeichen übertragen werden kann."
+    },
+    {
+      "id": 1770726262468,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Wie stellt man eine Parkscheibe richtig ein?",
+      "erstellt": "2026-02-10T12:24:22.468Z",
+      "antwort": "- Gut sichtbar \n- Auf die nächste volle Stunde oder nächste halbe Stunde\n- Diese muss zugelassen sein z.B. Farben und \"P\" Symbol"
     }
   ],
   "schriftlich": []
