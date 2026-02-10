@@ -468,6 +468,27 @@
       "frage": "Was ist das Ziel der Ausbildung gemäß § 1 der FahrschAusbO?",
       "antwort": "Ziel der Ausbildung ist die Befähigung zum Sicheren, Verantwortungsvollen und Umweltbewussten Verkehrsteilnehmer sowie die Vorbereitung auf die Prüfung.",
       "erstellt": "2026-02-10T12:59:34.805Z"
+    },
+    {
+      "id": 1770729713486,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Was verstehen Sie unter der Anhängelast?",
+      "antwort": "Die Anhängelast ist die maximalle zulässige Last, die ein Fahrzeug mittels eines Anhängers hinter sich her ziehen darf.",
+      "erstellt": "2026-02-10T13:21:53.486Z"
+    },
+    {
+      "id": 1770729773777,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Was ist Stützlast?",
+      "antwort": "Die Stützlast ist die Kraft, die bei Anhängern auf die Anhängevorrichtung des Zugfahrzeugs wirkt.\nMind. 4 % Stützlast der tatsächlichen Maße jedoch wären 25 Kg ausreichend.",
+      "erstellt": "2026-02-10T13:22:53.777Z"
+    },
+    {
+      "id": 1770730150866,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Erklären Sie den Überholweg anschaulich",
+      "antwort": "Der Überholweg ist die Strecke, die ein Fahrzeug für den Sicheren Überholvorgang unter Einhaltung des Sicherheitsabstands benötigt.\nDie Formel lautet wie folgt: V1 / V1 - V2 x L = Überholweg\nEin Beispiel hierzu:\nPkw fährt 100 Km/h (V1) & überholt einen Lkw der 80 km/h (V2) fährt. Der Pkw mit einer Länge von 5 Meter und einen Sicherheitsabstand zum Lkw mit 50 Meter (Halber Tacho). Der Lkw mit einer Länge von 10 Meter und einem Sicherheitsabstand zum Einscheren von 40 Meter (Halber Tacho). \n\n1. Gesamtlänge (L) berechnen\nStrecke, die der Pkw insgesamt gutmachen muss:\n\nL = 50 m + 10 m + 5 m + 40 m\nL = 105 m\n\n2. Überholweg berechnen\n\nFormel:\nÜberholweg = V1 / (V1 – V2) × L\n\nEinsetzen:\nÜberholweg = 100 / (100 – 80) × 105\nÜberholweg = 100 / 20 × 105\nÜberholweg = 5 × 105\n\nErgebnis:\n👉 Überholweg = 525 Meter",
+      "erstellt": "2026-02-10T13:29:10.866Z"
     }
   ],
   "muendlich": [
@@ -652,6 +673,27 @@
       "frage": "Was versteht man unter dem Schutz für Jugendliche durch den Gesetzgeber im Straßenverkehr?",
       "erstellt": "2026-02-10T12:36:37.079Z",
       "antwort": "- Probezeit für Fahranfänger = 2 Jahre\n- Alkohol- und Cannabisverbot bis 21 Jahre"
+    },
+    {
+      "id": 1770730549861,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Was sind die Häufigsten Unfallursachen von Fahranfängern?",
+      "erstellt": "2026-02-10T13:35:49.861Z",
+      "antwort": "- Nicht angepasste Geschwindigkeit\n- Überschätzung der eigenen Fähigkeiten und Fertigkeiten\n- Unter- und Überschätzung der Fahrzeugleistung\n- zu geringer Abstand \n- Rauschmittel / Alkohol / Drogen / Medikamente\n- Handynutzung"
+    },
+    {
+      "id": 1770730656964,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Welche Bedingungen gelten für die zulässige Höchstgeschwindigkeit",
+      "erstellt": "2026-02-10T13:37:36.964Z",
+      "antwort": "7 Faktoren der Geschwindikeit:\n- Sichtverhältnis\n- Straßenverhältnis\n- Witterungsverhältnis\n- Verkehrsverhältnis\n- Zustand des Fahrzeugs\n- Persönliche Fähigkeiten\n- Ladung"
+    },
+    {
+      "id": 1770730773341,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Welche Voraussetzungen gelten für die Begleitperson bei BF17",
+      "erstellt": "2026-02-10T13:39:33.341Z",
+      "antwort": "- Mindestens 30 Jahre alt\n- max. 1 Punkt \n- 5 Jahre durchgehende Fahrerlaubnis \n- Promillegrenze während des BF17 Begleiten für die Begleitperson 0,5 Promille"
     }
   ],
   "schriftlich": []
