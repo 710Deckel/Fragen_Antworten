@@ -1093,6 +1093,90 @@
       "frage": "Wie und wann soll eine Rettungsgasse gebildet werden?",
       "erstellt": "2026-02-23T13:00:53.218Z",
       "antwort": "Gemäß der StVO sind Rettungsgassen außerhalb Geschlossener Ortschaften vom äußerst linken zum rechts danebenliegenden zu bilden. Das heißt der Linke Fahrstreifen nach links fahren und alle anderen nach rechts. \n\nInnerhalb Geschlossener Ortschaften sollten diese dennoch gebildet werden bei Gefahr!"
+    },
+    {
+      "id": 1771852813226,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Was versteht man unter Fahren auf Sicht?",
+      "erstellt": "2026-02-23T13:20:13.226Z",
+      "antwort": "Ich darf nur so schnell fahren, dass ich im Sichtbereich jederzeit anhalten kann."
+    },
+    {
+      "id": 1771853128574,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Was versteht man unter § 11 StVO \"besondere Verkehrslagen\"?",
+      "erstellt": "2026-02-23T13:25:28.574Z",
+      "antwort": "In der Ausbildung nutzen wir diesen § um den Fahrschüler von einem Regelkonformen zu einem Vorrausschauenden Fahrer zu entwickeln. \nBei Stockenden Verkehr müssen Kreuzungen  und Einmündungen freigehalten werden, um den Verkehrsfluss nicht zu behindern, Bei Stau sind Rettungsgassen zu bilden und wenn es die Verkehrslage erfordert muss man auf sein Vorrecht verzichten."
+    },
+    {
+      "id": 1771853161908,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Welche Fahrerlaubnis Klassen schließt die Klasse \"B\" mit ein?",
+      "erstellt": "2026-02-23T13:26:01.908Z",
+      "antwort": "- AM\n- L"
+    },
+    {
+      "id": 1771853355617,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Wo gilt die Richtgeschwindigkeit?",
+      "erstellt": "2026-02-23T13:29:15.617Z",
+      "antwort": "bis 3,5 Tonnen zGM:\n- Auf Autobahnen\n- a.G.O auf anderen Straßen mit Fahrbanen für eine Richtung, die durch Mittelstreifen oder sonstige bauliche Einrichtungen getrennt sind.\n- a.G.O auf Straßen, die mindestens zwei durch Fahrstreifenbegrenzung oder durch Leitlinien markierte Fahrstreifen für jede Richtung"
+    },
+    {
+      "id": 1771853581820,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Welche Unterschiede gibt es bei Vorfahrt und Vorrang?",
+      "erstellt": "2026-02-23T13:33:01.820Z",
+      "antwort": "Vorfahrt:\n- Vorfahrt ist in der StvO geregelt. \nEs ist entscheidend woher du kommst. \n\nVorrang:\nVorrang ergibt sich aus dem Vorschriften.\nEs ist entscheidend wohin du willst.\nVerkehrsteilnehmer bewegen sich parallel zueinander."
+    },
+    {
+      "id": 1771853623961,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Gibt es eine Winterreifenpflicht?",
+      "erstellt": "2026-02-23T13:33:43.961Z",
+      "antwort": "Nein. Reifen müssen bei mehrspurigen KFZ den Witterungsverhältnissen entsprechen."
+    },
+    {
+      "id": 1771853786404,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Was versteht man unter der Leuchtweitenregelung?",
+      "erstellt": "2026-02-23T13:36:26.404Z",
+      "antwort": "Die Leuchtweitenregulierung ist eine Technische Einrichtung eines Kraftfahrzeugs die Manuell oder Automatisch die Leuchtweite der Scheinwerfer regelt."
+    },
+    {
+      "id": 1771854220947,
+      "kategorie": "Pädagogik",
+      "frage": "Wie läuft die Vorbesprechung einer Fahrstunde ab?",
+      "erstellt": "2026-02-23T13:43:40.947Z",
+      "antwort": "1. Der FL fragt den FS wie es Ihm geht. (Anhand des befinden des FS richtet sich die Fahrstunde und die Ziele aus)\n2. Der FL fragt den FS ob er Fragen zur letzten Fahrstunde / n hat. (Sofern keine Fragen gehts zum nächsten Step. sonst werden die Fragen zusammen ausgearbeitet.)\n3. Der FL geht mit dem FS die Ziele der heutigen Fahrstunde durch und legt diese Fest."
+    },
+    {
+      "id": 1771854255817,
+      "kategorie": "Pädagogik",
+      "frage": "Wie läuft eine praktische Fahrstunde ab?",
+      "erstellt": "2026-02-23T13:44:15.817Z",
+      "antwort": "1. Erklären\n2. Demonstrieren\n3. Imitation\n4. Selbstständigkeit"
+    },
+    {
+      "id": 1771854355250,
+      "kategorie": "Pädagogik",
+      "frage": "Welche Medien hat man im Theoretischen Unterricht zur Verfügung?",
+      "erstellt": "2026-02-23T13:45:55.250Z",
+      "antwort": "Pinnwand, Flipchart, Tafel, Whiteboard, Smartboard, Fahrlehrer selbst, Fahrschüler, Overheadprojektor etc."
+    },
+    {
+      "id": 1771854488520,
+      "kategorie": "Pädagogik",
+      "frage": "Wofür und wann kann man das Fahrschulbuch benutzen?",
+      "erstellt": "2026-02-23T13:48:08.520Z",
+      "antwort": "- Die Fahrschüler können dort den Theoretischen Unterrichtsinhalt nachlesen somit (Stichwort Verzahnung)\n- Außerhalb vom Theorieunterricht sowie auch Innerhalb.\n- Im Theorie und danach um Prüfungsfragen etc. zu bearbeiten."
+    },
+    {
+      "id": 1771854899275,
+      "kategorie": "Pädagogik",
+      "frage": "Erklären Sie die Ausbildungsdiagrammkarte",
+      "erstellt": "2026-02-23T13:54:59.275Z",
+      "antwort": "Die Ausbildungsdiagrammkarte ist ein Leitfaden bzw. Checkliste für den praktischen Unterricht für den Fahrschüler, Fahrlehrer und für die Eltern. \nAuf der ADK finden sich Verschiedene Ausbildungsstufen (Grundstufe, aufbaustufe, Leistungsstufe, Besondere Ausbildungsfahrten, Reife- und Teststufe sowie Situative Bausteine, Dämmerungs- und Dunkelheit sowie die Grundfahraufgaben) die der Fahrschüler gemäß FahrschAusbO durchlaufen soll um die Prüfung anzutreten und um zu einen Sicheren, Verantwortungsvollen und Umweltbewussten Verkehrsteilnehmer ausgebildet zu werden."
     }
   ],
   "schriftlich": []
