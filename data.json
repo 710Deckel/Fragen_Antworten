@@ -1050,7 +1050,49 @@
       "kategorie": "Verkehrsverhalten",
       "frage": "Welche Fahrstreifen dürfen i.G.O  befahren werden sofern es mehrere markierte Fahrstreifen für eine Richtung gibt?",
       "erstellt": "2026-02-10T13:52:38.318Z",
-      "antwort": "Kraftfahrzeuge bis 3,5 Tonnen zGM haben i.G.O freie Fahrstreifenwahl."
+      "antwort": "- Kraftfahrzeuge bis 3,5 Tonnen zGM haben i.G.O freie Fahrstreifenwahl."
+    },
+    {
+      "id": 1771850452939,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Was kennzeichnet einen Verkehrsberuhigten Geschäftsbereich?",
+      "erstellt": "2026-02-23T12:40:52.940Z",
+      "antwort": "- durch 20-Zone\n- Können durch Pflastersteine abgesetzt sein"
+    },
+    {
+      "id": 1771850706047,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Wann darf rechts überholt werden?",
+      "erstellt": "2026-02-23T12:45:06.047Z",
+      "antwort": "- Schienenfahrzeuge\n- Wenn sich jemand zum links abbiegen eingeordnet hat\n- abgehender Fahrstreifen\n- Einfädelungsstreifen\n- Fahrzeugschlange & Fahrzeugschlangen 60/80 Regel\n- Mofa, Fahrrad an Ampeln\n- i.G.O freie Fahrstreifenwahl KFZ unter 3.5 T zGM bei mehreren markierten Fahrstreifen"
+    },
+    {
+      "id": 1771850843864,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Welchen Inhalt hat die StVO?",
+      "erstellt": "2026-02-23T12:47:23.864Z",
+      "antwort": "Die StVO ist eine Unfallverhütungsvorschrift für den Straßenverkehr, somit trägt diese zum Schutz für Leib und Leben aller Verkehrsteilnehmer im Straßenverkehr teil."
+    },
+    {
+      "id": 1771851099218,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Was versteht man unter \"Auto-Hold\"?",
+      "erstellt": "2026-02-23T12:51:39.218Z",
+      "antwort": "Das Auto-Hold ist ein Fahrassistenz System eines Kraftfahrzeugs dass das Fahrzeug ohne Manuelle Unterstützung des Fahreres im Stand oder weiterhin, also ohne weiter Rollen das KFZ hält."
+    },
+    {
+      "id": 1771851365121,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Nenne die Unterschieden zwischen Fahrverbot und dem Entzug der Fahrerlaubnis",
+      "erstellt": "2026-02-23T12:56:05.121Z",
+      "antwort": "Fahrverbot OwiG:\n- Das Fahrverbot ist ein ruhende Fahrerlaubnis von 1 bis 3 Monate - der Sogenannte Denkzettel\nFahrverbot Straftat:\n- Das Fahrverbot ist ein ruhende Fahrerlaubnis von 3 bis 6 Monaten. Kein Denkzettel mehr!\n\nEntzug der Fahrerlaubnis:\n- Beim Entzug erlischt die Fahrerlaubnis"
+    },
+    {
+      "id": 1771851653218,
+      "kategorie": "Verkehrsverhalten",
+      "frage": "Wie und wann soll eine Rettungsgasse gebildet werden?",
+      "erstellt": "2026-02-23T13:00:53.218Z",
+      "antwort": "Gemäß der StVO sind Rettungsgassen außerhalb Geschlossener Ortschaften vom äußerst linken zum rechts danebenliegenden zu bilden. Das heißt der Linke Fahrstreifen nach links fahren und alle anderen nach rechts. \n\nInnerhalb Geschlossener Ortschaften sollten diese dennoch gebildet werden bei Gefahr!"
     }
   ],
   "schriftlich": []
