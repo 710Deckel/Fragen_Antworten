@@ -1303,6 +1303,20 @@
       "frage": "Wieviele und welche Sonderfahrten benötigen wir bei BE?",
       "erstellt": "2026-03-12T09:41:10.214Z",
       "antwort": "Insgesamt benötigen wir 5 Sonderfahrten, unterteilt in 3 Überlandfahrten, 1 Autobahnfahrt und 1 Dämmerungs- und DUnkelheitsfahrt."
+    },
+    {
+      "id": 1773309630745,
+      "kategorie": "Pädagogik",
+      "frage": "Welche Lernzieltaxonomie gibt es und wie ist sie Aufgebaut?",
+      "erstellt": "2026-03-12T10:00:30.745Z",
+      "antwort": "Die Taxonomie nach §1 Absatz 2 der Fahrschülerausbildungsordnung (FaReSiKoVe). Aufgebaut ist sie nach einer Stufenfolge aufeinander aufbauend. \n1. Fahrfertigkeiten und Fähigkeiten\n2. Regelkonformität\n3. Sicherheitsbewusstsein\n4. Kommunikation und Partnerschaft\n5. Verantwortung für Mensch und Umwelt.\nSo kann z.B. ein Fahrschüler nicht schon in Stufe 5 sein, wenn er noch nicht einmal das Fahrzeug bedienen kann."
+    },
+    {
+      "id": 1773309783190,
+      "kategorie": "Pädagogik",
+      "frage": "Welche Analysen zur Planung von Theoretischen Unterricht gibt es?",
+      "erstellt": "2026-03-12T10:03:03.190Z",
+      "antwort": "Vorbedingungen (Wer kommt, Sprache, Vorwissen..)\nLernziele: Was sollen die Schüler wissen?\nDidaktische Analyse: Was erzähl ich den Fahrschülern?\nMethodische Analyse: Wie bringe ich den Schülern das Thema näher? (Methoden / Medien)"
     }
   ],
   "schriftlich": []
