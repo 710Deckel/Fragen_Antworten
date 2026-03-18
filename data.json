@@ -1478,6 +1478,20 @@
       "frage": "Was versteht man unter \"blended Learning\"?",
       "erstellt": "2026-03-18T12:44:00.801Z",
       "antwort": "Blended Learning ist eine Mischform des Lernens, wobei der Unterricht einmal in Präsenz mit einem Lehrer stattfindet, aber auch in digitaler Form stattfinden kann, z.B. durch Digitale Medien wie Apps, Videos etc."
+    },
+    {
+      "id": 1773837886147,
+      "kategorie": "Technik",
+      "frage": "Was bedeutet 10% Gefälle?",
+      "erstellt": "2026-03-18T12:44:46.147Z",
+      "antwort": "Auf einer Strecke von 100 Metern fällt das Gelände 10 Meter ab."
+    },
+    {
+      "id": 1773837970267,
+      "kategorie": "Technik",
+      "frage": "Wieviel Meter legt man bei 80 km/h in der Sekunde zurück?",
+      "erstellt": "2026-03-18T12:46:10.267Z",
+      "antwort": "Hierzu nutzen wir die Faustformel des Reaktionswegs: (V / 10) * 3 -> (80 / 10) * 3 = 24 Meter.\n\n24 Meter ist somit die Antwort."
     }
   ],
   "schriftlich": []
